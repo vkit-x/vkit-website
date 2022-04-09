@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'vkit',
   tagline: '',
-  url: 'https://vkit-dev.github.io',
+  url: 'https://vkit-x.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'vkit-dev',
+  organizationName: 'vkit-x',
   projectName: 'vkit',
   trailingSlash: false,
 
@@ -31,7 +31,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/vkit-dev/vkit/edit/master/website/',
+          editUrl: 'https://github.com/vkit-x/vkit/edit/master/website/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -61,7 +61,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/vkit-dev/vkit',
+            href: 'https://github.com/vkit-x/vkit',
             label: 'GitHub',
             position: 'right',
           },
@@ -75,11 +75,11 @@ const config = {
             items: [
               {
                 label: 'Discussion',
-                href: 'https://github.com/vkit-dev/vkit/discussions',
+                href: 'https://github.com/vkit-x/vkit/discussions',
               },
               {
                 label: 'Issues',
-                href: 'https://github.com/vkit-dev/vkit/issues',
+                href: 'https://github.com/vkit-x/vkit/issues',
               },
             ],
           },
@@ -88,7 +88,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/vkit-dev/vkit',
+                href: 'https://github.com/vkit-x/vkit',
               },
             ],
           },
