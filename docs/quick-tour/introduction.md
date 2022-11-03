@@ -26,7 +26,7 @@ vkit（[GitHub 仓库](https://github.com/vkit-x/vkit)）聚焦于**计算机视
 
 ## 如何开始？
 
-建议先阅读 🏷️*[快速开始](/quick-tour/quickstart)* 与 🏷️*[设计理念](/quick-tour/philosophy)* ，然后按需阅读 🏷️*[解决方案](/solution)* 与 🏷️*[教程](/tutorial)* 中的相关章节。如果在过程中遇到问题，可以按照 🏷️*[参与指引](/quick-tour/参与指引)* 联系我们。
+建议先阅读 🏷️*[快速开始](/quick-tour/quickstart)* 与 🏷️*[设计理念](/quick-tour/philosophy)* ，然后按需阅读 🏷️*[解决方案](/solution)* 与 🏷️*[教程](/tutorial)* 中的相关章节。如果在过程中遇到问题，可以按照 🏷️*[参与指引](/quick-tour/participation)* 联系我们。
 
 ## 来点眼前一亮的东西？
 
