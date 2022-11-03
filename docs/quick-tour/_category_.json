@@ -2,6 +2,7 @@
   "label": "速览",
   "position": 1,
   "link": {
-    "type": "generated-index"
+    "type": "doc",
+    "id": "quick-tour"
   }
 }
