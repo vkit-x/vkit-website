@@ -27,25 +27,31 @@ const config = {
     locales: ['zh-Hans'],
   },
 
+  // Change to docs-only mode.
+  // https://docusaurus.io/docs/docs-introduction#docs-only-mode
   presets: [
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/', // Serve the docs at the site's root
           sidebarPath: require.resolve('./sidebars.js'),
+          // https://docusaurus.io/docs/sidebar/items#expanded-categories-by-default
+          sidebarCollapsed: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/vkit-x/vkit-website/blob/master/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/vkit-x/vkit-website/blob/master/',
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   editUrl:
+        //     'https://github.com/vkit-x/vkit-website/blob/master/',
+        // },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -65,9 +71,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'quick-tour/introduction',
             position: 'left',
-            label: 'Tutorial',
+            label: '文档',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -84,8 +90,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: '文档',
+                to: '/',
               },
             ],
           },
@@ -120,7 +126,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} vkit-x Administrator. All Rights Reserved.`,
       },
       prism: {
         theme: lightCodeTheme,
