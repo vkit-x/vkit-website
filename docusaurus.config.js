@@ -73,7 +73,7 @@ const config = {
             type: 'doc',
             docId: 'quick-tour/introduction',
             position: 'left',
-            label: '文档',
+            label: '项目文档',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -90,7 +90,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: '文档',
+                label: '项目文档',
                 to: '/',
               },
             ],
