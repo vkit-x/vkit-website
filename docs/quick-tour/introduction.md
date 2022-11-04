@@ -55,7 +55,7 @@ vkit（[GitHub 仓库](https://github.com/vkit-x/vkit)）聚焦于**计算机视
 
 :::
 
-<div align="center">
+<div class="video-wrapper" align="center">
 
 <video autoplay="true" muted="true" playsinline="true" loop="true" controls="true">
 <source src="docs-resource/quick-tour/introduction/geometric.mp4" type="video/mp4" />
@@ -65,7 +65,7 @@ vkit（[GitHub 仓库](https://github.com/vkit-x/vkit)）聚焦于**计算机视
 
 </div>
 
-<div align="center">
+<div class="video-wrapper" align="center">
 
 <video autoplay="true" muted="true" playsinline="true" loop="true" controls="true">
 <source src="docs-resource/quick-tour/introduction/photometric.mp4" type="video/mp4" />
