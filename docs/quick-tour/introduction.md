@@ -53,7 +53,7 @@ vkit（[GitHub 仓库](https://github.com/vkit-x/vkit)）聚焦于**计算机视
 <div align="center">
 
 <video autoplay="true" muted="true" playsinline="true" loop="true" controls="ture">
-    <source src="docs-resource/quick-tour/introduction/geometric-optim.mp4" type="video/mp4" />
+    <source src="docs-resource/quick-tour/introduction/geometric.mp4" type="video/mp4" />
 </video>
 
 <p>注：以上展示的是几何畸变增强策略。<code>-polygon</code> 后缀，展示多边形同态变换的结果。</p>
@@ -63,7 +63,7 @@ vkit（[GitHub 仓库](https://github.com/vkit-x/vkit)）聚焦于**计算机视
 <div align="center">
 
 <video autoplay="true" muted="true" playsinline="true" loop="true" controls="ture">
-    <source src="docs-resource/quick-tour/introduction/photometric-optim.mp4" type="video/mp4" />
+    <source src="docs-resource/quick-tour/introduction/photometric.mp4" type="video/mp4" />
 </video>
 
 <p>注：以上展示的是光度畸变增强策略。</p>
