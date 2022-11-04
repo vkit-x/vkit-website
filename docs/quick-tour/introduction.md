@@ -47,7 +47,7 @@ vkit（[GitHub 仓库](https://github.com/vkit-x/vkit)）聚焦于**计算机视
 
 <div align="center">
 
-<img alt="original-combined.jpg" src="docs-resource/quick-tour/introduction/original-combined.jpg" />
+<img alt="original-combined.jpg" src="/docs-resource/quick-tour/introduction/original-combined.jpg" />
 
 <p>注：左边是是原始图片，右边是人像区域的多边形标注的可视化效果。</p>
 
@@ -58,7 +58,7 @@ vkit（[GitHub 仓库](https://github.com/vkit-x/vkit)）聚焦于**计算机视
 <div align="center">
 
 <video autoplay="true" muted="true" playsinline="true" loop="true" controls="true">
-<source src="docs-resource/quick-tour/introduction/geometric.mp4" type="video/mp4" />
+<source src="/docs-resource/quick-tour/introduction/geometric.mp4" type="video/mp4" />
 </video>
 
 <p>注：以上展示的是几何畸变增强策略。<code>-polygon</code> 后缀，展示多边形同态变换的结果。</p>
@@ -68,7 +68,7 @@ vkit（[GitHub 仓库](https://github.com/vkit-x/vkit)）聚焦于**计算机视
 <div align="center">
 
 <video autoplay="true" muted="true" playsinline="true" loop="true" controls="true">
-<source src="docs-resource/quick-tour/introduction/photometric.mp4" type="video/mp4" />
+<source src="/docs-resource/quick-tour/introduction/photometric.mp4" type="video/mp4" />
 </video>
 
 <p>注：以上展示的是光度畸变增强策略。光度畸变不涉及几何变化，故不展示多边形效果。</p>
@@ -91,15 +91,15 @@ vkit（[GitHub 仓库](https://github.com/vkit-x/vkit)）聚焦于**计算机视
 
 <div align="center">
 
-<img alt="text-detection-1-resized.jpg" src="docs-resource/quick-tour/introduction/text-detection-1-resized.jpg" />
+<img alt="text-detection-1-resized.jpg" src="/docs-resource/quick-tour/introduction/text-detection-1-resized.jpg" />
 
 <p>注：上面是两页生成的文档图片。</p>
 
-<img alt="text-detection-2-resized.jpg" src="docs-resource/quick-tour/introduction/text-detection-2-resized.jpg" />
+<img alt="text-detection-2-resized.jpg" src="/docs-resource/quick-tour/introduction/text-detection-2-resized.jpg" />
 
 <p>注：左边的是生成的文档页面图片，中间的是文本行级别精度的掩码标注，右边的是文本行级别精度的字体大小标注。</p>
 
-<img alt="text-detection-3-resized.jpg" src="docs-resource/quick-tour/introduction/text-detection-3-resized.jpg" />
+<img alt="text-detection-3-resized.jpg" src="/docs-resource/quick-tour/introduction/text-detection-3-resized.jpg" />
 
 <p>注：左上方的是文本区域堆叠的页面图片，右上方的是字符级别精度的掩码标注，左下方的是字符级别精度的高斯分布标注，右下方的是字符级别精度的四边形标注。</p>
 
