@@ -30,6 +30,11 @@
 }
 
 /* Make sure video do not exceed the boundary. */
+.video-wrapper {
+  width: 100%;
+  overflow: hidden;
+}
+
 video {
   object-fit: contain;
 }
