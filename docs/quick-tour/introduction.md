@@ -61,7 +61,7 @@ vkit（[GitHub 仓库](https://github.com/vkit-x/vkit)）聚焦于**计算机视
 <source src="/docs-resource/quick-tour/introduction/geometric.mp4" type="video/mp4" />
 </video>
 
-<p>注：以上展示的是几何畸变增强策略。<code>-polygon</code> 后缀，展示多边形同态变换的结果。</p>
+<p>注：以上展示的是几何畸变增强策略。带 <code>-polygon</code> 后缀的，展示的是多边形同态变换的结果。</p>
 
 </div>
 
